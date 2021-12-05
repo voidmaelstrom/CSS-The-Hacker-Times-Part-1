@@ -63,8 +63,9 @@ main h5 {
   color: #dd3232;
   margin-top: 0.5em;
 }
-main img {
+img {
   width: 100%;
+  height: 200px;
 }
 
 .more-articles {
@@ -72,14 +73,13 @@ main img {
   margin-top: 1.5em;
   text-align: center;
 }
+
 .more-articles section {
   display: inline-block;
   margin: 1em;
   width: 44%;
 }
-.more-articles img {
-  width: 100%;
-}
+
 .more-articles h4 {
   font-family: 'Roboto Slab';
   text-align: left;
